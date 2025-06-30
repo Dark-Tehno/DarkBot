@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='DarkChatAPI',  
+    name='DarkBot',  
     version='0.1.3',   
     author='vsp210', 
     author_email='vsp210@gmail.com', 
